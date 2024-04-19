@@ -11,7 +11,7 @@ The approach involves finding a method to assign multiple background images to a
 - Style tag injection 
 - Target attribute must not have ```type=hidden``` (which is usually the case) but still useful for leaking tags such as `script[nonce]` and others
 
-This will only work on Chrome as other brwoser does not support `cross-fade`
+This will only work on Chrome as other browsers do not support `cross-fade`
 
 
 # Configuration
